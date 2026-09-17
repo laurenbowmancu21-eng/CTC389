@@ -82,11 +82,11 @@ def door5():
     if choice == "1":
         print("Your solo goes viral and you become famous!")
     elif choice == "2":
-        print ("You cath on fire and die instantly.")
+        print ("You catch on fire and die instantly.")
     elif choice == "3":
         print ("The crowd catches you and carries you around then back onto the stage!")
     else:
-        print ("Invalid choice. You miss your tuen to play your solo.")
+        print ("Invalid choice. You miss your turn to play your solo.")
 
 def game():
     playing = True

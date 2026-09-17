@@ -5,7 +5,7 @@
 
 def door1():
     print("Door 1: Private Piano Teacher")
-    print ("You are teaching a student, but notice the piano bench is wobbly.")
+    print ("You are teaching a student, but notice the piano bench is wobbly. What do you do next?")
     print ("1. Fix the bench before playing with a wrench.")
     print ("2. Swap out the bench for a chair.")
     print ("3. Ignore that the bench is broken, hop on the bench and play violently.")
@@ -22,7 +22,7 @@ def door1():
 
 def door2():
     print("Door 2: Street performer")
-    print(" You are playing at 3rd Street Promenade when a rival musician tries to take your spot.")
+    print(" You are playing at 3rd Street Promenade when a rival musician tries to take your spot. What do you do next?")
     print ("1. Perform a duet together.")
     print ("2. Play louder to drown them out and attract more of a crowd.")
     print ("3. Physically attack the rival.")
@@ -39,7 +39,7 @@ def door2():
 
 def door3():
     print("Door 3: Music Producer" )
-    print (" Your high-teach studio console sparks during a big recording session.")
+    print (" Your high-teach studio console sparks during a big recording session. What do you do next?")
     print ("1. Call an electrician to fix it.")
     print ("2. Grab the live wires with bare hands.")
     print ("3. Switch to working on your laptop.")
@@ -56,7 +56,7 @@ def door3():
 
 def door4():
     print("Door 4: High School Band Director")
-    print("Right before a big championship, the band is out of tune.")
+    print("Right before a big championship, the band is out of tune. What do you do next?")
     print ("1. Tune every instrument carefully.")
     print ("2. Give an inspiring pep talk.")
     print ("3. Scold the band for being irresponsible.")
@@ -73,7 +73,7 @@ def door4():
 
 def door5():
     print(" Door 5: Touring Musician" )
-    print("You are on stage at a huge rock concert with pyrotechnics going off.")
+    print("You are on stage at a huge rock concert with pyrotechnics going off. What do you do next?")
     print("1. Stay in your area onstage and play your solo.")
     print("2. Jump directly into the live flame cannons.")
     print("3. Jump off the stage into the crowd.")
